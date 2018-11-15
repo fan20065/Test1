@@ -1,2 +1,12 @@
 test 1
 test 2
+
+ssh-keygen -t rsa -C "fan20065@163.com"
+
+/c/Users/Administrator/.ssh/
+
+
+git@github.com:fan20065/Test1.git
+
+
+2个文件修改  提交测试2
